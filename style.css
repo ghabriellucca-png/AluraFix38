@@ -1,30 +1,30 @@
-body{background-color: black;
+body {
+    background-color: black;
     color: aquamarine;
-font-family: blanchedalmond;
-margin: aquamarine
-;}
-h1{
-
-color: aqua;
-font-size: 40px;
+    font-family: blanchedalmond;
+    margin: aquamarine;
 }
-p{
-font-size: 25px;
 
-
+h1 {
+    color: aqua;
+    font-size: 40px;
 }
-header{
+
+p {
+    font-size: 25px;
+}
+
+header {
     border-bottom: solid 3ex;
-    margin:2xp
-    padding:10xp
-    color(red green blue)
-
-}
-chamada
-{ background :
-padding 
+    margin:2xp;
+    padding: 10xp;
+    color: (red green blue)
 }
 
+chamada {
+    background:
+        padding
+}
 
 
 
@@ -57,16 +57,19 @@ padding
 
 
 
-img{
+
+img {
     height: 200px;
 }
-.categoria video{
-    display:flex;
-    overflow-x:auto;
-gap: 15px;
+
+.categoria video {
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
 
 }
-.categoria{
+
+.categoria {
     padding-left: 20px;
     padding-right: 20px;
 }
